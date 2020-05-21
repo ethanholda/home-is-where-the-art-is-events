@@ -3,8 +3,8 @@
 $events = array(
 "comforts-of-home" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJmZGFjMzctOWMwMC00OTM4LTg1ZTctNTE0OGIzYjAxYmI3%40thread.v2/0?context=%7B%22Tid%22%3A%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2C%22Oid%22%3A%225ffbd509-f517-461d-be76-14c287850a75%22%2C%22IsBroadcastMeeting%22%3Atrue%7D",
 "restore-and-reflect" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM3ZDYzNTEtYTgxOS00NTJhLWFmNzEtMDMyODQxZTc5YjM4%40thread.v2/0?context=%7B%22Tid%22%3A%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2C%22Oid%22%3A%225ffbd509-f517-461d-be76-14c287850a75%22%2C%22IsBroadcastMeeting%22%3Atrue%7D",
-"healing-and-heritage" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg4YWRhZjctMTJiMS00YTFiLTkzNmItZGU0MDcyZDEyYTBm%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
-"care" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2I1Zjc5ODctZmE5OC00NDliLWI1MTktY2M3ZTQyNzExMmU2%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d"
+"desktop-dialogues-healing-and-heritage" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg4YWRhZjctMTJiMS00YTFiLTkzNmItZGU0MDcyZDEyYTBm%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
+"desktop-dialogues-care" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2I1Zjc5ODctZmE5OC00NDliLWI1MTktY2M3ZTQyNzExMmU2%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d"
 );
 
 $event_key = $_GET['e'];
