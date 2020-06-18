@@ -6,7 +6,8 @@ $events = array(
 "desktop-dialogues-healing-and-heritage" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg4YWRhZjctMTJiMS00YTFiLTkzNmItZGU0MDcyZDEyYTBm%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
 "desktop-dialogues-care" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2I1Zjc5ODctZmE5OC00NDliLWI1MTktY2M3ZTQyNzExMmU2%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
 "desktop-dialogues-summer-bounty" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGVkNGRkMDQtNmFmYi00YWJiLThlZGItODNlMWJhZmVmZTNh%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%225ffbd509-f517-461d-be76-14c287850a75%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
-"spring-members-party" => "https://www.clevelandart.org/spring-members-party-2020"
+"spring-members-party" => "https://www.clevelandart.org/spring-members-party-2020",
+"desktop-dialogues-recovering-lost-histories" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTY5Y2RhZDQtNzM4YS00NjhkLWI1NDktMmRhYTBlNDU3MTU3%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d"
 );
 
 $event_key = $_GET['e'];
