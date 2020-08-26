@@ -11,7 +11,10 @@ $events = array(
 "desktop-dialogues-re-visioning" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzYzODc0MTMtNzQ3Ni00NDM0LTlhODgtNGI3OWM2MjJkZDhi%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
 "close-looking-inquisitive-eye" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQwOTZjYTQtMDExMS00NzU0LWI4ZTgtNWIzNWY4NzBhYTE3%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
 "desktop-dialogues-care-and-curatorial" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlOWFjNTktYjA0Mi00YzIzLWI0MGQtMzk3ODAwMTNhMjNm%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
-"close-looking-matter-of-perspective" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZThhYjBhMmMtMmJmZC00NDc0LTg5N2MtZjMyMmJlYjM0MTEz%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d"
+"close-looking-matter-of-perspective" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZThhYjBhMmMtMmJmZC00NDc0LTg5N2MtZjMyMmJlYjM0MTEz%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
+"desktop-dialogues-this-is-what" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjVmODc4YWEtODNjNi00ZDRiLWFjYWItNmJhNjE4MmU1ODBi%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
+"close-looking-printing-democracy" => "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDI1NGRlMTctYzMzNC00NzRjLTlkZTAtZjY5ZWMwMTBjYWRl%40thread.v2/0?context=%7b%22Tid%22%3a%22b4253cf3-23c3-4e23-b151-0c32273cd7c5%22%2c%22Oid%22%3a%22e754c311-dcdb-462a-a7f5-89797dd55152%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
+"photographic-friendship" => "https://vimeo.com/451620203/f36ef8cf40"
 );
 
 $event_key = $_GET['e'];
